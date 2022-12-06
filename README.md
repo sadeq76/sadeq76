@@ -1,3 +1,5 @@
+<img src="https://media-exp1.licdn.com/dms/image/D4E16AQFYtmOJYZkbwA/profile-displaybackgroundimage-shrink_350_1400/0/1670344838579?e=1675900800&v=beta&t=vliyr7kZUc9MOD5DF4mc2yHFTmtXRKfYAmgam0pMvPY" width="100%" />
+
 <h1> $WHOAMI </h1>
 
 <p> My name is Sadeq. I'm front-end developer with 3+ years of experience </p>
