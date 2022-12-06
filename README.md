@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/D4E16AQFYtmOJYZkbwA/profile-displaybackgroundimage-shrink_350_1400/0/1670344838579?e=1675900800&v=beta&t=vliyr7kZUc9MOD5DF4mc2yHFTmtXRKfYAmgam0pMvPY" width="100%" />
+<img src="https://media-exp1.licdn.com/dms/image/D4E16AQFYtmOJYZkbwA/profile-displaybackgroundimage-shrink_350_1400/0/1670344838579?e=1675900800&v=beta&t=vliyr7kZUc9MOD5DF4mc2yHFTmtXRKfYAmgam0pMvPY" width="100%" alt="sadeq shahmoradi" />
 
 <h1> $WHOAMI </h1>
 
@@ -16,4 +16,12 @@
 You can find me:
 
 <a href="https://stackoverflow.com/users/17023430/sadeq-shahmoradi?tab=profile" target="_blank">Stackoverflow</a>
-<a href="https://www.linkedin.com/in/sadeq-shahmoradi" target="_blank">Stackoverflow</a>
+<a href="https://www.linkedin.com/in/sadeq-shahmoradi" target="_blank">LinkedIn</a>
+
+<h2> More About Me </h2>
+
+```
+git status
+git add
+git commit
+```
