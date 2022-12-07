@@ -2,7 +2,7 @@
 
 <h1> $WHOAMI </h1>
 
-<p> My name is Sadeq. I'm front-end developer with 3+ years of experience </p>
+<p> Greetings, My name is <strong> Sadeq </strong> . I'm front-end developer with 3+ years of experience </p>
 
 <h2> Contact Informations </h2>
 
@@ -20,8 +20,8 @@ You can find me:
 
 <h2> More About Me </h2>
 
-```
-git status
-git add
-git commit
+```ts
+const sadeq: sadeqModel={
+intrest:[]
+}
 ```
