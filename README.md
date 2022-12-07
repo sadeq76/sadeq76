@@ -21,7 +21,31 @@ You can find me:
 <h2> More About Me </h2>
 
 ```ts
-const sadeq: sadeqModel={
-intrest:[]
+const sadeq: personalityModel = {
+interest: ['music', 'video games', 'gardening', 'mechanic'],
+pronouns: "he" | "him",
+languages: ['HTML' , 'CSS' , 'JS' , 'TS' , 'ES'],
 }
 ```
+
+
+```text
+TypeScript   17 hrs 39 mins  ██████████████████▒░░░░░░   73.53 %
+JSON         4 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+CSS          1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Bash         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+```
+
+
+|Class|Count|
+|-|-|
+|Warrior|443|
+|Cleric|345|
+|Rogue|455|
+|Wizard|300|
+
+
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+                
