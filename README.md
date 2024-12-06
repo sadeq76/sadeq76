@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Koalas-coffee](https://github.com/sadeq76/koalas-frontend)
+- 🔭 I’m currently working on [Baarbaanet](http://baarbaanet.com/)
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -19,11 +19,8 @@
 
 - 📫 How to reach me **sadeqshahmoradi76@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AsFz1Rr6brL5c-xBDTRWVueJEzclzF-JYRK1pm2Ov1o/edit?usp=sharing](https://docs.google.com/document/d/1AsFz1Rr6brL5c-xBDTRWVueJEzclzF-JYRK1pm2Ov1o/edit?usp=sharing)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sadeq-shahmoradi/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
